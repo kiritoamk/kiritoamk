@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:900/1*b29pJKZqp6Jxb3rd9QlJiw.png" alt="Web Development Banner" width="100%" height="auto">
+  <img src="https://photos.google.com/u/3/photo/AF1QipND9HeMQsI-UlwXP_U2dxbhh1k9jh5EsnFzce2d" alt="Web Development Banner" width="100%" height="auto">
 </div>
 
 <h1 align="center">🚀 Abhishek M</h1>
@@ -11,7 +11,7 @@
 </p>
 
 <div align="center">
-  <p>👨‍💻 Pre-Final Year Information Science Engineering Student | Full Stack Web Developer | C, C++, Java, JavaScript | Game Dev </p>
+  <p>👨‍💻 Pre-Final Year Information Science Engineering Student | Full Stack Web Developer | C, C++, Java, JavaScript | Game Dev | </p>
 </div>
 
 ## 🌟 About Me
