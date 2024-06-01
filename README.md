@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="![Uploading Screenshot 2024-06-01 at 3.10.02 PM.png…]()
-" alt="Web Development Banner" width="100%" height="auto">
+  <img src="https://drive.google.com/file/d/1scXeJZtvtWmZLrHjD0P1jP8vfx8jgCA_/view?usp=drive_link" alt="Web Development Banner" width="100%" height="auto">
 </div>
 
 <h1 align="center">🚀 Abhishek M</h1>
