@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://drive.google.com/file/d/1scXeJZtvtWmZLrHjD0P1jP8vfx8jgCA_/view?usp=drive_link" alt="Web Development Banner" width="100%" height="auto">
+  <img src="https://github.com/kiritoamk/kiritoamk/blob/main/masked.png" alt="Web Development Banner" width="100%" height="auto">
 </div>
 
 <h1 align="center">🚀 Abhishek M</h1>
